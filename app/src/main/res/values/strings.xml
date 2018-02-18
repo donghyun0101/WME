@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">WME</string>
+    <string name="action_settings">Developer</string>
+
+    <string name="update_title">New Version!</string>
+    <string name="update_message">메인에 보여지는\n\n\"원주의료고등학교\"\n\n글자를 누르시면 학교 홈페이지로,\n밑에 영어를 클릭하시면 수강신청 사이트로 이동합니다!\n\n나머지 버튼들의 기능은 버튼의 이름과 같이 매우 직관적 입니다!</string>
+
+    <string name="action_share_timetable">시간표 공유</string>
+    <string name="action_reset_mymajor">학급 정보 재설정</string>
+    <string name="action_download_db">DB 업데이트</string>
+    <string name="loading_table">시간표를 가져오는중...</string>
+    <string name="I_do_not_know_the_error_title">알수없는 오류 발생</string>
+    <string name="I_do_not_know_the_error_message">원인. 강원도교육청 서버관리자가 서버를 개편중인 경우\n\n일단 원인 분석을 위해 꼭 개발자에게 알려주세요...!</string>
+    <string name="action_refresh">새로 고침</string>
+    <string name="action_calender">날짜 설정</string>
+    <string name="action_today">오늘 날짜</string>
+    <string name="action_share_timetable_msg">%1$s 시간표\n%2$s</string>
+    <string name="action_setting_mymajor">학과 설정</string>
+    <string name="action_setting_mygrade">학년 설정</string>
+    <string name="action_setting_myclass">반 설정</string>
+    <string name="action_share_day">공유할 요일 선택</string>
+    <string name="no_network_title">인터넷 연결 안됨</string>
+    <string name="no_network_msg">인터넷 연결이 안되서 데이터를 다운로드 할 수 없습니다</string>
+    <string name="no_wifi_title">데이터 네트워크 사용 안내</string>
+    <string name="no_wifi_msg">데이터 네트워크를 사용하시겠습니까?</string>
+    <string name="title_activity_time_table">시간표</string>
+    <string name="message_activity_time_table">시간표를 확인합니다.</string>
+    <string name="today_timetable">%1$s 시간표</string>
+    <string name="no_setting_my_grade">학급 정보가 없습니다</string>
+    <string name="not_go_to_school_title">시간표 없음</string>
+    <string name="not_go_to_school_message">오늘은 시간표가 없습니다.</string>
+    <string name="not_exists_data">데이터가 없습니다.</string>
+    <string name="no_time_table_db_title">시간표 DB 없음</string>
+    <string name="no_time_table_db_message">시간표 DB가 없습니다, 다운로드 하시겠습니까?</string>
+
+    <string name="shareBap_title">급식 공유하기</string>
+    <string name="today_bfast">오늘의 아침</string>
+    <string name="today_lunch">오늘의 점심</string>
+    <string name="today_dinner">오늘의 저녁</string>
+    <string name="no_data_bfast">아침이 없습니다</string>
+    <string name="no_data_lunch">점심이 없습니다</string>
+    <string name="no_data_dinner">저녁이 없습니다</string>
+    <string name="no_data_title">정보 없음</string>
+    <string name="no_data_message">정보가 없습니다.</string>
+    <string name="loading_bap">급식표를 가져오는중...</string>
+    <string name="widget_no_data">데이터가 없습니다.\n날짜를 눌러\n새로고침 하세요</string>
+    <string name="no_data_kcal">No</string>
+
+    <string name="widget_bap_name">(급식위젯) 의료고</string>
+
+    <string name="exam_time_title">%1$s %2$d학년 %3$s %4$s고사</string>
+    <string name="no_exam_db_title">시험 시간표 DB 없음</string>
+    <string name="no_exam_db_message">시험 시간표 DB가 없습니다, 다운로드 하시겠습니까?</string>
+    <string name="loading_test">시험시간표를 가져오는중...</string>
+
+    <string name="license_DateTimePicker">Copyright 2013 Flavien Laurent (DatePicker) edisonw (TimePicker)\n\n
+        Licensed under the Apache License, Version 2.0 (the "License");\n
+        you may not use this file except in compliance with the License.\n
+        You may obtain a copy of the License at\n\n
+        http://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+    <string name="license_jericho">Eclipse Public License (EPL)\nGNU Lesser General Public License (LGPL)\nApache Licence</string>
+    <string name="license_mir">http://itmir.tistory.com/</string>
+    <string name="license_open">Public Open Library</string>
+
+    <string name="update">1.전체 소스코드 리뉴얼\n\n2.일정 메뉴를 웹에 접속하여 실시간으로 업데이트 되는 학교일정으로 View\n\n3.급식관련 소스코드 수정으로 더 빠르게 데이터를 다운로드하고, 데이터 사용량을 낮춤\n\n4.알레르기 표시 수정
+    </string>
+</resources>

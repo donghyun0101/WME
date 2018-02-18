@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kdh.med.MainActivity">
+
+    <item
+        android:id="@+id/action_developer"
+        android:orderInCategory="1"
+        android:title="Developer"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_opensource"
+        android:orderInCategory="2"
+        android:title="OpenSource License"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_changelog"
+        android:orderInCategory="3"
+        android:title="ChangeLog"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_version"
+        android:orderInCategory="4"
+        android:title="Version"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_using"
+        android:orderInCategory="5"
+        android:title="사용법"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sendbug"
+        android:orderInCategory="5"
+        android:title="오류제보"
+        app:showAsAction="never" />
+</menu>

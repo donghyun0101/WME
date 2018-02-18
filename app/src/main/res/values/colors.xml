@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secondText">#727272</color>
+
+    <color name="bapcolor">#02BCD4</color>
+    <color name="calendercolor">#1B77D2</color>
+    <color name="classtablecolor">#FF9902</color>
+    <color name="testtablecolor">#FF4182</color>
+    <color name="settingcolor">#689F38</color>
+
+    <color name="selecter_no">#ffffff</color>
+    <color name="selecter_yes">#e3e3e3e3</color>
+</resources>
